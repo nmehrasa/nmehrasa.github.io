@@ -1,7 +1,6 @@
-
 ---
 permalink: /
-title: "About Me"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
+This is Dr. Test Account's home on the web!
 
-About Me
-======
-I am a third year PhD student in the [School of Computing Science at Simon Fraser University](https://www.sfu.ca/computing.html) supervised by Prof. [Greg Mori](https://www.cs.sfu.ca/~mori/). 
-
+Lorem ipsum.
