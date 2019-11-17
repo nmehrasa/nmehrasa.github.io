@@ -19,6 +19,6 @@ Publications
 Nazanin Mehrasa, Ruizhi Deng, Mohamed Osama Ahmed, Bo Chang, Jiawei He, Thibaut Durand, Marcus Brubaker, Greg Mori.<br/>
 Learning with Temporal Point Processes (NeurIPS ‘19 Workshop)
 
-**Arbitrarily-conditioned Data Imputation.**
-Micael Carvalho, Thibaut Durand, Jiawei He, Nazanin Mehrasa, Greg Mori
+**Arbitrarily-conditioned Data Imputation.**<br/>
+Micael Carvalho, Thibaut Durand, Jiawei He, Nazanin Mehrasa, Greg Mori.<br/>
 2nd Symposium on Advances in Approximate Bayesian Inference (AABI)
