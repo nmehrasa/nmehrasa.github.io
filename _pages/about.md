@@ -15,7 +15,7 @@ My research is in computer vision and machine learning, with a particular intere
 
 Publications
 ======
-**Point Process Flows.** [\[pdf\]](https://arxiv.org/pdf/1910.08281.pdf)<br/>
+**Point Process Flows.** <br/>
 **Nazanin Mehrasa**, Ruizhi Deng, Mohamed Osama Ahmed, Bo Chang, Jiawei He, Thibaut Durand, Marcus Brubaker, Greg Mori.<br/>
 Learning with Temporal Point Processes (NeurIPS ‘19 Workshop)
 
