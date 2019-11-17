@@ -34,3 +34,9 @@ Conference on Computer Vision and Pattern Recognition (CVPR) ‘19
 **Deep Learning of Player Trajectory Representations for Team Activity Analysis.**<br/>
  **Nazanin Mehrasa**, Yatao Zhong, Fred Tung, Luke Bornn, Greg Mori.<br/>
  MIT SLOAN Sports Analytics Conference, 2018.
+ 
+**Unsupervised Learning of Supervoxel Embeddings for Video Segmentation. **<br/>
+Mehran Khodabandeh, Srikanth  Muralidharan, Arash Vahdat, **Nazanin Mehrasa**, Eduardo M.  Pereira,  Shin’ichi Satoh, Greg Mori. <br/>
+IAPR International Conference on Pattern Recognition (ICPR) ‘16.
+
+
