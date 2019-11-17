@@ -27,6 +27,6 @@ Micael Carvalho, Thibaut Durand, Jiawei He, **Nazanin Mehrasa**, Greg Mori.<br/>
 **Nazanin Mehrasa**, Akash Abdu Jyothi, Thibaut Durand, Jiawei He, Leonid Sigal, Greg Mori.<br/>
 Conference on Computer Vision and Pattern Recognition (CVPR) ‘19
 
-**Learning a Deep ConvNet for Multi-label Classiﬁcation with Partial Labels. **<br/>
+**Learning a Deep ConvNet for Multi-label Classiﬁcation with Partial Labels.**<br/>
 Thibaut Durand, **Nazanin Mehrasa**, Greg Mori.<br/>
 Conference on Computer Vision and Pattern Recognition (CVPR) ‘19
