@@ -30,3 +30,7 @@ Conference on Computer Vision and Pattern Recognition (CVPR) ‘19
 **Learning a Deep ConvNet for Multi-label Classiﬁcation with Partial Labels.**<br/>
 Thibaut Durand, **Nazanin Mehrasa**, Greg Mori.<br/>
 Conference on Computer Vision and Pattern Recognition (CVPR) ‘19
+
+**Deep Learning of Player Trajectory Representations for Team Activity Analysis.**<br/>
+ **Nazanin Mehrasa**, Yatao Zhong, Fred Tung, Luke Bornn, Greg Mori.<br/>
+ MIT SLOAN Sports Analytics Conference, 2018.
