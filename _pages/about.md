@@ -18,3 +18,7 @@ Publications
 **Point Process Flows.** [\[pdf\]](https://arxiv.org/pdf/1910.08281.pdf)<br/>
 Nazanin Mehrasa, Ruizhi Deng, Mohamed Osama Ahmed, Bo Chang, Jiawei He, Thibaut Durand, Marcus Brubaker, Greg Mori.<br/>
 Learning with Temporal Point Processes (NeurIPS ‘19 Workshop)
+
+**Arbitrarily-conditioned Data Imputation.**
+Micael Carvalho, Thibaut Durand, Jiawei He, Nazanin Mehrasa, Greg Mori
+2nd Symposium on Advances in Approximate Bayesian Inference (AABI)
