@@ -16,9 +16,17 @@ My research is in computer vision and machine learning, with a particular intere
 Publications
 ======
 **Point Process Flows.** [\[pdf\]](https://arxiv.org/pdf/1910.08281.pdf)<br/>
-Nazanin Mehrasa, Ruizhi Deng, Mohamed Osama Ahmed, Bo Chang, Jiawei He, Thibaut Durand, Marcus Brubaker, Greg Mori.<br/>
+**Nazanin Mehrasa**, Ruizhi Deng, Mohamed Osama Ahmed, Bo Chang, Jiawei He, Thibaut Durand, Marcus Brubaker, Greg Mori.<br/>
 Learning with Temporal Point Processes (NeurIPS ‘19 Workshop)
 
 **Arbitrarily-conditioned Data Imputation.**<br/>
-Micael Carvalho, Thibaut Durand, Jiawei He, Nazanin Mehrasa, Greg Mori.<br/>
+Micael Carvalho, Thibaut Durand, Jiawei He, **Nazanin Mehrasa**, Greg Mori.<br/>
 2nd Symposium on Advances in Approximate Bayesian Inference (AABI)
+
+**A Variational-Autoencoder Model for Stochastic Point Processes.**<br/>
+**Nazanin Mehrasa**, Akash Abdu Jyothi, Thibaut Durand, Jiawei He, Leonid Sigal, Greg Mori.<br/>
+Conference on Computer Vision and Pattern Recognition (CVPR) ‘19
+
+**Learning a Deep ConvNet for Multi-label Classiﬁcation with Partial Labels. **<br/>
+Thibaut Durand, **Nazanin Mehrasa**, Greg Mori.<br/>
+Conference on Computer Vision and Pattern Recognition (CVPR) ‘19
